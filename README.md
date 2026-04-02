@@ -1,4 +1,4 @@
-# CS320-Web-Data-Searcher
+# Web-Data-Searcher
 Project contains web crawler referenced in resume
 Launching the Website
 This project includes a small web application built with the Flask framework. It serves as the source of the pages that will be scraped.
